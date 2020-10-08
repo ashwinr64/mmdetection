@@ -14,3 +14,11 @@ This is an evolving dataset, where we will release more data as the dataset grow
 # Baseline
 
 MMdetection is an open source object detection toolbox based on PyTorch, with a large Model Zoo with many customised models that can be plugged and tested in with just a single config file modification. PYou can read more about it at: [mmdetection github](https://github.com/open-mmlab/mmdetection/)
+
+# Dataset
+
+To download the dataset, you can use:
+
+``` bash
+python tools/download_dataset.py
+```
